@@ -1,4 +1,3 @@
-#PROJECT OVERVIEW
 I undertook this project to analyze smart device data and gain insights into user behavior, focusing on Bellabeat's product. The goal was to refine products, develop targeted marketing campaigns, and provide personalized recommendations based on user habits, activity levels, sleep patterns, and stress levels.
 The project aimed to answer specific questions, such as common daily activity patterns, the correlation between activity level and sleep quality, peak times of stress, frequently used smart device features, and user engagement throughout the day.
 
